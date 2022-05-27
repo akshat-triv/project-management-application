@@ -1,0 +1,11 @@
+# dependencies
+**/node_modules
+
+# IDE config
+.vscode
+
+# environment config
+**/.env
+
+# backup
+client/back_up
